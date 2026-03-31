@@ -18,7 +18,7 @@
 
 ### Professional Summary
 
-I am an undergrad comp-sci student in my last semester with a primary focus on **Web Development**, **Machine Learning**, and **Natural Language Processing (NLP)**. I specialize in building end-to-end intelligent systems—from developing advanced text classification models like LaBSE and RoBERTa for complex linguistic analysis, to architecting robust web applications and APIs using Node.js, Express, and Flask. Whether I'm building data enrichment pipelines powered by Large Language Models or developing responsive full-stack applications, my goal is to transform complex data into accessible, high-performance web solutions.
+I am an undergrad comp-sci student in my last semester with a primary focus on **Web Development**, **Machine Learning**, and **Natural Language Processing (NLP)**. I specialize in building end-to-end intelligent systems from developing advanced text classification models like LaBSE and RoBERTa for complex linguistic analysis, to architecting robust web applications and APIs using Node.js, Express, and Flask. Whether I'm building data enrichment pipelines powered by Large Language Models or developing responsive full-stack applications, my goal is to transform complex data into accessible, high-performance web solutions.
 
 ---
 
