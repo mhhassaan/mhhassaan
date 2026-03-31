@@ -4,7 +4,7 @@
 # Hi there, I'm Hassaan 👋
 
 <a href="https://github.com/mhhassaan">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;Machine+Learning+Engineer;NLP+Researcher;Building+Scalable+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Web+Developer;Machine+Learning+Engineer;NLP+Researcher;Building+Scalable+Solutions" alt="Typing SVG" />
 </a>
 
 **Bridging the gap between intelligent algorithms and dynamic web applications.**
