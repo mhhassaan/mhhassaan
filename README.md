@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# Hi there, I'm Hassan 👋
+# Hi there, I'm Hassaan 👋
 
 <a href="https://github.com/mhhassaan">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;Machine+Learning+Engineer;NLP+Researcher;Building+Scalable+Solutions" alt="Typing SVG" />
