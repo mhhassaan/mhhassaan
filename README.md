@@ -1,4 +1,3 @@
-
 <div align="center">
 
 # Hi there, I'm Hassaan 👋
@@ -18,7 +17,7 @@
 
 ### Professional Summary
 
-I am an undergrad comp-sci student in my last semester with a primary focus on **Web Development**, **Machine Learning**, and **Natural Language Processing (NLP)**. I specialize in building end-to-end intelligent systems from developing advanced text classification models like LaBSE and RoBERTa for complex linguistic analysis, to architecting robust web applications and APIs using Node.js and Flask. Whether I'm building data enrichment pipelines powered by Large Language Models or developing responsive full-stack applications, my goal is to transform complex data into accessible, high-performance web solutions.
+I am an undergrad comp-sci student in my last semester with a primary focus on **Web Development**, **Machine Learning**, and **Natural Language Processing (NLP)**. I specialize in building end-to-end intelligent systems from developing advanced text classification models like LaBSE and RoBERTa for complex linguistic analysis, to architecting robust web applications and APIs using Node.js, Flask, and FastAPI. Whether I'm building data enrichment pipelines powered by Large Language Models or developing responsive full-stack applications, my goal is to transform complex data into accessible, high-performance web solutions.
 
 ---
 
@@ -27,9 +26,10 @@ I am an undergrad comp-sci student in my last semester with a primary focus on *
 | Project | Description | Role / Tech |
 | :--- | :--- | :--- |
 | **Urdu News Bias Detection** | Academic NLP research project detecting structural/epistemological bias (e.g., Subject Intensifiers) in text. Benchmarking models like TF-IDF, SVM, Bi-LSTM, and `LaBSE + LogReg`. | *ML/NLP Researcher* |
+| **PC Forge** | A high-performance web application/API utilizing FastAPI to manage and streamline custom PC building and hardware configurations. | *Backend Developer* |
 | **Insta-X-Flask-Downloader** | A Flask-based server-side web application engineered to seamlessly download, manage, and process media from Instagram and X (Twitter). | *Backend Developer* |
-| **LLM Data Enrichment Web Scraper** | A robust Python scraping architecture that extracts e-commerce data across multiple URLs and utilizes the `gemini-pro` API with exponential backoff for automated specification enrichment. | *Data Engineer* |
-| **Dynamic Web Applications** | Building responsive, server-side web applications utilizing modern tech stacks including Node.js, Express.js, EJS templating, and Bootstrap. | *Full-Stack Developer* |
+| **LLM Data Enrichment Web Scraper** | A robust Python scraping architecture that extracts e-commerce data across multiple URLs and utilizes the `deepseek-v3` API with exponential backoff for automated specification enrichment. | *Data Engineer* |
+| **Dynamic Web Applications** | Building responsive, server-side web applications utilizing modern tech stack including Node.js | *Full-Stack Developer* |
 
 ---
 
@@ -40,6 +40,7 @@ I am an undergrad comp-sci student in my last semester with a primary focus on *
   <br/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -83,7 +84,7 @@ I am an undergrad comp-sci student in my last semester with a primary focus on *
 
 I am always open to discussing:
 -  Innovative applications of NLP and Large Language Models.
--  Server-side web development (Node.js/Express, Flask) and API integration.
+-  Server-side web development (Node.js/Express, Flask, FastAPI) and API integration.
 -  Automated web scraping, data enrichment, and processing pipelines.
 -  Open-source contributions and technical problem-solving.
 
