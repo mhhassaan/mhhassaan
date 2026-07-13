@@ -17,19 +17,16 @@
 
 ### Professional Summary
 
-I'm a final-year Computer Science undergrad focused on **Full-Stack Development**, **Machine Learning**, and **Natural Language Processing**. I build end-to-end systems — from benchmarking NLP models like LaBSE and TF-IDF hybrids for text classification, to architecting REST APIs and databases with FastAPI, Flask, and PostgreSQL. I'm equally interested in the research side (comparing approaches, evaluating tradeoffs) and the engineering side (shipping something that actually works).
+I'm a fresh graduate with a focus on building fullstack systems and AI/LLM powered applications end-to-end to solve real-world problems.
 
 ---
 
-### Current Focus & Projects
-
 | Project | Description | Role / Focus |
 | :--- | :--- | :--- |
-| **Urdu News Bias Detection** | NLP research project detecting linguistic bias in Urdu news, benchmarking 20+ pipelines (TF-IDF, SVM, LaBSE, XLM-RoBERTa) with SHAP explainability. | *ML/NLP Research* |
-| **PC Forge** | Full-stack PC-building platform with a hybrid AI + deterministic hardware compatibility engine. FastAPI, React, TypeScript, PostgreSQL. | *Full-Stack Developer* |
-| **PC Forge Data Scraping Pipeline** | Multi-stage ETL pipeline aggregating hardware pricing from 6+ retailers, using LLM-based (DeepSeek) spec normalization. | *Data Engineer* |
-| **Distributed File Backup System** | Fault-tolerant microservices backup system with Master-Worker replication and zero-knowledge client-side encryption. | *Systems Engineer* |
-| **InstaMediaAssist** | Browser extension (Manifest V3) intercepting network calls to extract media client-side, with zero backend. | *Frontend / Browser Engineering* |
+| **PC Forge** | Full-stack PC-building platform with a hybrid AI + deterministic hardware compatibility engine. FastAPI, React, TypeScript, PostgreSQL. | *FullStack Development / LLM Integration* |
+| **medNAMA** | An evidence-based clinical Q&A and board exam practice simulator grounded in medical textbook reference libraries. | *AI Engineering / LLM Integration* |
+| **reelscript** | An AI-assisted reel transcripter, generate summmaries, action list and extract links mentioned. | *Full-Stack Development / LLM Integration* |
+| **Urdu News Bias Detection** | NLP research project detecting linguistic bias in Urdu news, benchmarking 20+ pipelines (TF-IDF, SVM, LaBSE, XLM-RoBERTa) with SHAP explainability. | *ML/NLP Research / Machine Learning / LLM Intergation* |
 
 ---
 
