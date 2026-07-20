@@ -66,19 +66,6 @@ I'm a fresh graduate with a focus on building fullstack systems and AI/LLM power
 
 ---
 
-### GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=mhhassaan&show_icons=true&theme=nord" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mhhassaan&theme=nord" alt="GitHub Streak" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mhhassaan&layout=compact&theme=nord" alt="Top Languages" />
-</div>
-
 ### Let's Build!
 
 I'm always open to discussing:
