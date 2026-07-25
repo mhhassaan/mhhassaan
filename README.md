@@ -3,7 +3,7 @@
 # Hi there, I'm Hassan 👋
 
 <a href="https://github.com/mhhassaan">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;NLP+%26+AI+Systems;Python+%2F+FastAPI+%2F+React;Building+End-to-End+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=AI+Engineering;NLP+%26+AI+Systems;Python+%2F+FastAPI+%2F+React;Building+End-to-End+Solutions" alt="Typing SVG" />
 </a>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-hassan03/)
@@ -63,14 +63,6 @@ I'm a fresh graduate with a focus on building fullstack systems and AI/LLM power
 </details>
 
 ---
-
-### Let's Build!
-
-I'm always open to discussing:
-- Applications of NLP and explainable AI in real-world systems
-- Backend/API development with FastAPI and Flask
-- Database design and data pipeline engineering
-- Browser extension development and web platform internals
 
 <div align="center">
   <br>
