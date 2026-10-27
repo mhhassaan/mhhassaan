@@ -12,12 +12,12 @@ I'm a fresh graduate with a focus on building fullstack systems and AI/LLM power
 
 ---
 
-| Project | Description | Role / Focus |
-| :--- | :--- | :--- |
-| **PC Forge** | Full-stack PC-building platform with a hybrid AI + deterministic hardware compatibility engine. FastAPI, React, TypeScript, PostgreSQL. | *FullStack Development / LLM Integration* |
-| **medNAMA** | An evidence-based clinical Q&A and board exam practice simulator grounded in medical textbook reference libraries. | *AI Engineering / LLM Integration* |
+| Project | Description |
+| :--- | :--- | 
+| **PC Forge** | Full-stack PC-building platform with a hybrid AI + deterministic hardware compatibility engine. FastAPI, React, TypeScript, PostgreSQL. | 
+| **medNAMA** | An evidence-based clinical Q&A and board exam practice simulator grounded in medical textbook reference libraries. |
 | **reelscript** | An AI-assisted reel transcripter, generate summmaries, action list and extract links mentioned. | *Full-Stack Development / LLM Integration* |
-| **Urdu News Bias Detection** | NLP research project detecting linguistic bias in Urdu news, benchmarking 20+ pipelines (TF-IDF, SVM, LaBSE, XLM-RoBERTa) with SHAP explainability. | *ML/NLP Research / Machine Learning / LLM Intergation* |
+| **Urdu News Bias Detection** | NLP research project detecting linguistic bias in Urdu news, benchmarking 20+ pipelines (TF-IDF, SVM, LaBSE, XLM-RoBERTa) with SHAP explainability. |
 
 ---
 
