@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0F766E,100:6366F1&amp;height=140&amp;section=header" width="100%" alt="">
 </p>
 
-<h1 align="center">Muhammad Hassan</h1>
+<h1 align="center">Hi there, I'm Hassan 👋</h1>
 
 <p align="center">
   <strong>Full-stack developer · AI applications · NLP</strong>
