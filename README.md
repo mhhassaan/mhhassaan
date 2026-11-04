@@ -1,65 +1,49 @@
-<div align="center">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0F766E,100:6366F1&amp;height=140&amp;section=header" width="100%" alt="">
+</p>
 
-# Hi there, I'm Hassan 👋
+<h1 align="center">Muhammad Hassan</h1>
 
-<a href="https://github.com/mhhassaan">
+<p align="center">
+  <strong>Full-stack developer · AI applications · NLP</strong>
+</p>
 
-</div>
-
----
-
-I'm a fresh graduate with a focus on building fullstack systems and AI/LLM powered applications end-to-end to solve real-world problems.
-
----
-
-| Project | Description |
-| :--- | :--- | 
-| **PC Forge** | Full-stack PC-building platform with a hybrid AI + deterministic hardware compatibility engine. FastAPI, React, TypeScript, PostgreSQL. | 
-| **medNAMA** | An evidence-based clinical Q&A and board exam practice simulator grounded in medical textbook reference libraries. |
-| **reelscript** | An AI-assisted reel transcripter, generate summmaries, action list and extract links mentioned. | *Full-Stack Development / LLM Integration* |
-| **Urdu News Bias Detection** | NLP research project detecting linguistic bias in Urdu news, benchmarking 20+ pipelines (TF-IDF, SVM, LaBSE, XLM-RoBERTa) with SHAP explainability. |
+<p align="center">
+  Lahore, Pakistan &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/muhammad-hassan03/">LinkedIn</a>
+</p>
 
 ---
 
-### Tech Stack & Tools
+I'm Hassan, a recent graduate building web applications, AI assistants, and browser tools. I work across the whole product—from APIs and databases to the interface people use.
 
-<details open>
-  <summary><b>Web Development & AI </b></summary>
-  <br/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-</details>
+### Selected work
 
-<details open>
-  <summary><b>Machine Learning & NLP</b></summary>
-  <br/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-</details>
+| Project | What it does |
+| :--- | :--- |
+| **[PC Forge](https://github.com/mhhassaan/pcforge)** | A PC builder for Pakistan, with hardware compatibility checks and local retailer pricing. |
+| **[medNAMA](https://github.com/mhhassaan/medNAMA)** | A medical study assistant with textbook-grounded answers, source citations, and board-exam practice. |
+| **[ReelScript](https://github.com/mhhassaan/reelscript)** | Turns Instagram Reels into timestamped transcripts, summaries, and action items. |
+| **[Urdu News Bias Detection](https://github.com/mhhassaan/Urdu-News-Bias-Detection-UNBD)** | Research comparing 20+ NLP pipelines for detecting and explaining bias in Urdu news. |
+| **[TweetX](https://github.com/mhhassaan/tweetx)** | A Chrome and Firefox extension for clean post links, media embeds, and photo copying or downloading. |
 
-<details open>
-  <summary><b>Tools & Practices</b></summary>
-  <br/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/DeepSeek-5786FE?style=for-the-badge&logo=deepseek&logoColor=white"/>
-  <img src="https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white"/>
-  <img src ="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src ="https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=white"/>
-</details>
+### Toolkit
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python" width="40" height="40" alt="Python" title="Python">&nbsp;
+  <img src="https://skillicons.dev/icons?i=fastapi" width="40" height="40" alt="FastAPI" title="FastAPI">&nbsp;
+  <img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="React" title="React">&nbsp;
+  <img src="https://skillicons.dev/icons?i=nextjs" width="40" height="40" alt="Next.js" title="Next.js">&nbsp;
+  <img src="https://skillicons.dev/icons?i=ts" width="40" height="40" alt="TypeScript" title="TypeScript">&nbsp;
+  <img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" alt="PostgreSQL" title="PostgreSQL">&nbsp;
+  <img src="https://skillicons.dev/icons?i=pytorch" width="40" height="40" alt="PyTorch" title="PyTorch">&nbsp;
+  <img src="https://skillicons.dev/icons?i=docker" width="40" height="40" alt="Docker" title="Docker">
+</p>
 
 ---
 
-<div align="center">
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=mhhassaan&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
-  <br><br>
+<p align="center">
+  Useful interfaces. Thoughtful AI. Built end to end.
+</p>
 
-  *Building in Lahore, Pakistan 🇵🇰*
-</div>
+<!-- Graphics: https://github.com/hampusvh/capsule-render and https://github.com/tandpfun/skill-icons. All text remains readable independently of the hosted images. -->
