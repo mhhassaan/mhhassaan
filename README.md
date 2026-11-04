@@ -27,7 +27,7 @@ I'm Hassan, a recent graduate building web applications, AI assistants, and brow
 | **[Urdu News Bias Detection](https://github.com/mhhassaan/Urdu-News-Bias-Detection-UNBD)** | Research comparing 20+ NLP pipelines for detecting and explaining bias in Urdu news. |
 | **[TweetX](https://github.com/mhhassaan/tweetx)** | A Chrome and Firefox extension for clean post links, media embeds, and photo copying or downloading. |
 
-### Toolkit
+<h2 align="center">Toolkit</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python" width="40" height="40" alt="Python" title="Python">&nbsp;
