@@ -15,7 +15,7 @@
 
 ---
 
-I'm Hassan, a recent graduate building web applications, AI assistants, and browser tools. I work across the whole product—from APIs and databases to the interface people use.
+I'm Hassan, a recent graduate building web applications, AI assistants, and browser tools. I work across the whole product from APIs and databases to the interface people use.
 
 ### Selected work
 
