@@ -21,11 +21,14 @@ I'm Hassan, a recent graduate building web applications, AI assistants, and brow
 
 | Project | What it does |
 | :--- | :--- |
+| **[Linklift](https://github.com/mhhassaan/Linklift)** | A Chrome and Firefox extension for clean sharing links, better media embeds, and customizable proxies for X, Instagram, Reddit, and TikTok. |
+| **[Threadly](https://github.com/mhhassaan/threadly)** | Turns articles and documents into editable reading threads, with private syncing, image exports, and optional AI discussions. |
+| **[NayaSpend](https://github.com/mhhassaan/NayaSpend)** | A NayaPay spending tracker with email transaction capture, CSV imports, automatic categorization, budgets, and bill reminders. |
+| **[InstaMediaAssist](https://github.com/mhhassaan/InstaMediaAssist)** | Adds direct download buttons to Instagram for photos, videos, Reels, and complete carousel posts. |
 | **[PC Forge](https://github.com/mhhassaan/pcforge)** | A PC builder for Pakistan, with hardware compatibility checks and local retailer pricing. |
 | **[medNAMA](https://github.com/mhhassaan/medNAMA)** | A medical study assistant with textbook-grounded answers, source citations, and board-exam practice. |
 | **[ReelScript](https://github.com/mhhassaan/reelscript)** | Turns Instagram Reels into timestamped transcripts, summaries, and action items. |
 | **[Urdu News Bias Detection](https://github.com/mhhassaan/Urdu-News-Bias-Detection-UNBD)** | Research comparing 20+ NLP pipelines for detecting and explaining bias in Urdu news. |
-| **[TweetX](https://github.com/mhhassaan/tweetx)** | A Chrome and Firefox extension for clean post links, media embeds, and photo copying or downloading. |
 
 <h2 align="center">Toolkit</h2>
 
