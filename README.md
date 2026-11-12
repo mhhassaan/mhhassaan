@@ -5,7 +5,7 @@
 <h1 align="center">Hi there, I'm Hassan 👋</h1>
 
 <p align="center">
-  <strong>Full-stack developer · AI applications · NLP</strong>
+  <strong>Full-stack developer · AI applications </strong>
 </p>
 
 <p align="center">
