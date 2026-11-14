@@ -8,10 +8,6 @@
   <strong>Full-stack · AI applications </strong>
 </p>
 
-<p align="center">
-  Lahore, Pakistan &nbsp;·&nbsp;
-</p>
-
 ---
 
 I'm Hassan, a recent graduate building web applications, AI assistants, and browser tools. I work across the whole product from APIs and databases to the interface people use.
