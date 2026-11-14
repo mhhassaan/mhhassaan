@@ -10,7 +10,6 @@
 
 <p align="center">
   Lahore, Pakistan &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/muhammad-hassan03/">LinkedIn</a>
 </p>
 
 ---
